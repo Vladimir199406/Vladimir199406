@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **most recent cool projects are private =(**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: tsallagov.vladimir@bk.ru</h3>
 <p align="left">
 </p>
 
