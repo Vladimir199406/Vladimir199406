@@ -20,11 +20,10 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vladimir199406&label=Profile%20views&color=0e75b6&style=flat" alt="vladimir199406" /> </p>
 
-- 💬 Ask me about **vue**
+- 💬 Ask me about **VUE.JS**
 
-- 📫 How to reach me **tsallagov.vladimir@bk.ru**
+- 📫 How to reach me: **tsallagov.vladimir@bk.ru || https://career.habr.com/vladimir199406**
 
-<h3 align="left">Connect with me: <strong> tsallagov.vladimir@bk.ru </strong> OR <strong>https://career.habr.com/vladimir199406</strong> </h3>
 <p align="left">
 </p>
 
