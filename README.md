@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **tsallagov.vladimir@bk.ru**
 
-- ⚡ Fun fact **most recent cool projects are private =(**
-
 <h3 align="left">Connect with me: <strong> tsallagov.vladimir@bk.ru </strong> OR <strong>https://career.habr.com/vladimir199406</strong> </h3>
 <p align="left">
 </p>
