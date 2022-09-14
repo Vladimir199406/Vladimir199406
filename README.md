@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **VUE.JS**
 
-- 📫 How to reach me: **tsallagov.vladimir@bk.ru || https://career.habr.com/vladimir199406**
+- 📫 How to reach me: **https://career.habr.com/vladimir199406**
 
 <p align="left">
 </p>
