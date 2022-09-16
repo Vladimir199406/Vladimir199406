@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <p align="left">
 </p>
 
-<hr>
+<br>
 
 <p align="center">
 <a href="https://github.com/Vladimir199406">
@@ -36,7 +36,11 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+<br>
+
 <hr>
+
+<br>
 
 
 <div align="right">
