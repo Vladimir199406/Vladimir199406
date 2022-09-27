@@ -1,5 +1,3 @@
-<h1 align="center">Vladimir Tsallagov</h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vladimir199406&label=Profile%20views&color=0e75b6&style=flat" alt="vladimir199406" /> </p>
 
 - 📫 How to reach me: **https://career.habr.com/vladimir199406**
