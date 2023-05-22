@@ -14,7 +14,7 @@
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vladimir199406&" alt="vladimir199406" />
   </a>
 </p>
-<hr>
+
 <div align="right">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
