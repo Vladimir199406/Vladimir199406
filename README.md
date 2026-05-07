@@ -4,7 +4,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/Vladimir199406">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vladimir199406&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=stars,contribs"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vladimir199406&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vladimir199406&layout=compact&langs_count=8&theme=algolia"/>
     <br>
     <br>
