@@ -4,22 +4,23 @@
 <br>
 <p align="center">
   <a href="https://github.com/Vladimir199406">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vladimir199406&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vladimir199406&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=stars,contribs"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vladimir199406&layout=compact&langs_count=8&theme=algolia"/>
     <br>
     <br>
   </a>
 </p>
-<hr>
 
-<div style="display: flex;">
-  <br>
-  <div align="right">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </div>
-<div/>
+<h2 align="left">🚀 Technologies & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,react,angular,nodejs,python&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ai,git&perline=7" />
+</p>
+
+<p align="right">
+  <em>Building fast web apps with modern tools and AI</em>
+</p>
